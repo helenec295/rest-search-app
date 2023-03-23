@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rest-search-app/static/css/main.01d88a21.css",
+    "main.js": "/rest-search-app/static/js/main.66133faa.js",
+    "static/js/787.d43d5300.chunk.js": "/rest-search-app/static/js/787.d43d5300.chunk.js",
+    "static/media/background_search_desktop.jpg": "/rest-search-app/static/media/background_search_desktop.5d22362af7aa3252eb5b.jpg",
+    "static/media/background_search_mobile.jpg": "/rest-search-app/static/media/background_search_mobile.a6f8ee50c5c0c66a98c5.jpg",
+    "index.html": "/rest-search-app/index.html",
+    "main.01d88a21.css.map": "/rest-search-app/static/css/main.01d88a21.css.map",
+    "main.66133faa.js.map": "/rest-search-app/static/js/main.66133faa.js.map",
+    "787.d43d5300.chunk.js.map": "/rest-search-app/static/js/787.d43d5300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01d88a21.css",
+    "static/js/main.66133faa.js"
+  ]
+}
